@@ -2,9 +2,9 @@
 
 
 -- One dark
-vim.g.dark_theme = 'onelight'
-vim.g.light_theme = 'onelight'
-vim.cmd("colorscheme onedarkpro")
+-- vim.g.dark_theme = 'onelight'
+-- vim.g.light_theme = 'onelight'
+-- vim.cmd("colorscheme onedarkpro")
 
 -- TokioNight
 --vim.g.tokyonight_style = 'night'
